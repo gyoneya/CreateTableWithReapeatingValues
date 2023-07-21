@@ -1,0 +1,6 @@
+Creation date: 20/07/2023
+
+Create base datatable, with dates, brazilian state and product, for a report
+This code repeats each value of column A for each value of column B and C
+
+This code was created to use in Power BI as a Python Query
